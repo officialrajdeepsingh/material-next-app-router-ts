@@ -20,7 +20,7 @@ export default function MultiActionAreaCard() {
               <CardMedia
                 component="img"
                 height="140"
-                image="/thunderstorm.jpg"
+                image="/material-next-app-router-ts/thunderstorm.jpg"
                 alt="green iguana"
               />
               <CardContent>
