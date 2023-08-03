@@ -4,7 +4,7 @@ import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import MenuItem from '@mui/material/MenuItem';
-import { ThemeToggle } from './ThemeToggle/ThemeToggle';
+import { ThemeToggle } from '../ThemeToggle/ThemeToggle';
 const pages = ['Products', 'Pricing', 'Blog'];
 
 function ResponsiveAppBar() {
