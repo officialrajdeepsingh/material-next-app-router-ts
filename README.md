@@ -34,5 +34,22 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+You can edit the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+
+## Note
+remove the following code when you start your development server.
+```
+// next.config.js
+
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  output: "export",
+  images: {
+    unoptimized: true,
+};
+
+module.exports = nextConfig;
+
+```
+
 
