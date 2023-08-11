@@ -4,11 +4,11 @@ Understand the installation process of MUI in the nextjs app router, [then check
 
 ## installation
 
-### clone the project
+### Clone the project
 ```bash
-git clone https://github.com/officialrajdeepsingh/material-next-app-router-ts.github
+git clone https://github.com/officialrajdeepsingh/material-next-app-router-ts.git
 ```
-### change the folder 
+### Change the folder 
 ```bash
 cd material-next-app-router-ts
 ```
